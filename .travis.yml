@@ -1,0 +1,7 @@
+language: generic
+script: echo $THING
+
+env:
+  - THING=1
+  - THING=2
+  - THING=3
