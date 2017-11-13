@@ -5,3 +5,7 @@ env:
   - THING=1
   - THING=2
   - THING=3
+
+cache:
+  directories:
+    - foo
